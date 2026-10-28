@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="8 0 352 104" fill="none" stroke="#ffffff" stroke-width="5" stroke-linecap="square" role="img" aria-label="(OMC)">
+  <g transform="translate(44 0)">
+    <!-- ( -->
+    <path d="M-14 2 A80 80 0 0 0 -14 102"/>
+    <!-- O -->
+    <circle cx="52" cy="52" r="44"/>
+    <!-- M -->
+    <path d="M113 96 V8 L150 70 L187 8 V96"/>
+    <!-- C -->
+    <path d="M276.3 18.3 A44 44 0 1 0 276.3 85.7"/>
+    <!-- ) -->
+    <path d="M294 2 A80 80 0 0 1 294 102"/>
+  </g>
+</svg>
