@@ -225,6 +225,7 @@ h3 {
 
 @media (min-width: 720px) {
   .members { grid-template-columns: repeat(3, 1fr); }
+  .members-two { grid-template-columns: repeat(2, 1fr); }
 }
 
 .member {
