@@ -215,6 +215,12 @@ h2 {
   font-size: 15px;
 }
 
+.members-note {
+  margin: 32px 0 0;
+  color: var(--muted);
+  font-size: 15px;
+}
+
 /* Footer */
 
 .site-footer {
